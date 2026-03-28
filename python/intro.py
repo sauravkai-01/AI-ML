@@ -13,3 +13,16 @@ datatypes automatically assigned to the variable
 no need to assigned at the time of variable declaration
 
 '''
+
+a = 15
+b = 3.145
+name = "saurav"
+p = True
+k = None
+
+print("\nBoolean : ", p)
+print("Integers : ", a, "\nFloating : ", b, "\nString : ", name)
+
+# datatypes functions
+print(type(a))
+print(type(k))
