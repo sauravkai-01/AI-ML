@@ -30,3 +30,9 @@ elif (username == "admin" and password != "admin@123"):
 else:
     print("login failed !!")
 
+# even odd
+number = int(input("Enter number : "))
+if (number % 2 == 0):
+    print(number, " : Even")
+else:
+    print(number, " : Odd")
