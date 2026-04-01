@@ -12,3 +12,21 @@ elif age > 25:
 else:
     print("you are minor")
     print("padhai kar")
+
+
+
+# authentication system
+
+username = input("Enter username : ")
+password = input("Enter password : ")
+
+if (username == "admin" and password == "admin@123"):
+    print("welcome")
+    print("login succeed !")
+elif (username != "admin"):
+    print("invalid username")    
+elif (username == "admin" and password != "admin@123"):
+    print("invalid password")
+else:
+    print("login failed !!")
+
