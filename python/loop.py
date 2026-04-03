@@ -76,3 +76,25 @@ print("sum : ", sum)
 
 
 # using range function
+
+
+# case-1
+print("range(5) : ")  # [0,5)
+for i in range(5):
+    print(i)
+
+# case-2
+print("range(1,6) : ")  # [1,6)
+for i in range(1,6):
+    print(i)
+
+# case-3
+print("range(1,20,2)")
+for i in range(1, 20, 3):
+    print(i)
+
+sum = 0
+print("sum of 10 natural language : ")
+for i in range(11):
+    sum = sum + i
+print("sum : ", sum)
