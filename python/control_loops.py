@@ -13,8 +13,6 @@ else:
     print("you are minor")
     print("padhai kar")
 
-
-
 # authentication system
 
 username = input("Enter username : ")
