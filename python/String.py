@@ -18,4 +18,4 @@ print(word3[1])
 
 print("Indexing : ")
 for i in range(len(word3)):
-    print(word3[i],end="")
+    print(word3[i],end="") # end="" prevent from new line
