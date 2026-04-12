@@ -4,6 +4,7 @@
 <img width="979" height="706" alt="Screenshot 2026-03-21 221023" src="https://github.com/user-attachments/assets/b8a9e1a1-4b83-4e7c-b75d-7633d906f4c8" />
 [DataAnalyst vs DataScientist vs AI Engineer.pdf](https://github.com/user-attachments/files/26164820/DataAnalyst.vs.DataScientist.vs.AI.Engineer.pdf) 
 
-<img width="1157" height="936" alt="Screenshot 2026-03-28 171821" src="https://github.com/user-attachments/assets/5b47d89e-992b-494b-a978-838f3c08040e" />
+<img width="1157" height="936" alt="Screenshot 2026-03-28 171821"
+ src="https://github.com/user-attachments/assets/5b47d89e-992b-494b-a978-838f3c08040e" />
 
 
