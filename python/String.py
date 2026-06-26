@@ -29,3 +29,5 @@ str1 = str[0: 3]
 print(str1, str[4: 11])
 print(str[2:])
 print(str[-11: -3])
+
+
